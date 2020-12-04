@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.Monitoraat2.Wpf", "Pra.Monitoraat2.Wpf\Pra.Monitoraat2.Wpf.csproj", "{465D68AE-DC56-417B-BD97-65201438EAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.Monitoraat2.Core", "Pra.Monitoraat2.Core\Pra.Monitoraat2.Core.csproj", "{D0B2C178-4E0C-4CD3-B942-32517E8DBE3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465D68AE-DC56-417B-BD97-65201438EAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465D68AE-DC56-417B-BD97-65201438EAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465D68AE-DC56-417B-BD97-65201438EAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465D68AE-DC56-417B-BD97-65201438EAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B2C178-4E0C-4CD3-B942-32517E8DBE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B2C178-4E0C-4CD3-B942-32517E8DBE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B2C178-4E0C-4CD3-B942-32517E8DBE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B2C178-4E0C-4CD3-B942-32517E8DBE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {770F24E1-EF2F-44B3-A1B1-55771CA8B4A5}
+	EndGlobalSection
+EndGlobal
