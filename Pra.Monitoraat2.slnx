@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pra.Monitoraat2.Core/Pra.Monitoraat2.Core.csproj" />
+  <Project Path="Pra.Monitoraat2.Wpf/Pra.Monitoraat2.Wpf.csproj" />
+</Solution>
